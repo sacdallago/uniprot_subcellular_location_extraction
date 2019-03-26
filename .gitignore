@@ -1,3 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/*
 locations.tsv
+.idea/*
+cache
+__pycache__/
