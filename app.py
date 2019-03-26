@@ -40,3 +40,7 @@ def get_location():
 
     else:
         return cache.to_json(orient="records")
+
+
+if __name__ == '__main__':
+    app.run()
